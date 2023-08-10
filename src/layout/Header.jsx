@@ -4,19 +4,8 @@ import { Link } from 'react-router-dom'
 import $ from 'jquery'; 
 
 export default function Header() {
-
-$(document).ready(() => {
-  $(document).scroll(() => {
-    $('header').addClass('sticky')
-    // if(document.scroll > 0) {
-    //   alert('')
-    // }
-   })
-})
-
-
   return (
-    <header>
+    <header className="sticky">
       <div className="container">
         <nav className="navbar navbar-expand-lg navbar-light">
           <div className="container-fluid">
