@@ -96,9 +96,9 @@ function Service() {
                                                         <box-icon type='solid' id="ed-book" name='book'></box-icon>
                                                     </div>
                                                     <div className="card-title">
-                                                        <h4>WEB DESIGN</h4>
+                                                        <h4>Front-End Developer</h4>
                                                         <p className='mt-5'>
-                                                            A small river named Duden flows by their place and supplies it with the necessary regelialia.
+                                                            Develop the Web Application in Using Html Css Bootstap JavaScript and React and Responsiv Web Application
                                                         </p>
                                                     </div>
                                                 </div>
@@ -111,9 +111,9 @@ function Service() {
                                                         <box-icon type='solid' id="ed-book" name='book'></box-icon>
                                                     </div>
                                                     <div className="card-title">
-                                                        <h4>WEB DEVELOPER</h4>
+                                                        <h4>Mern Stack DEVELOPER</h4>
                                                         <p className='mt-5'>
-                                                            A small river named Duden flows by their place and supplies it with the necessary regelialia.
+                                                           A Buld a Web Application in in Clints Site and Server Site Lick Reatc Node Express And MongoDb
                                                         </p>
                                                     </div>
                                                 </div>
